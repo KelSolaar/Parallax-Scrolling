@@ -1,1 +1,4 @@
-video/
+*.psd
+
+.project
+.DS_Store
